@@ -39,3 +39,10 @@ Then start the client by calling the executable:
 ```bash
 ./client PID-SERVER "STRING TO PASS"
 ```
+
+
+__PLEASE NOTE THAT ALL PROJECTS AT 42 ARE WRITTEN ACCORDING TO THE NORMINETTE, WHICH PROVIDES US A WAY OF HOW TO WRITE CLEAN/READABLE CODE!__
+
+```LINK
+https://github.com/42School/norminette/blob/921b5e22d991591f385e1920f7e7ee5dcf71f3d5/pdf/en.norm.pdf
+```
