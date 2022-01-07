@@ -17,7 +17,6 @@ client.
 
 | Program name | server - client |
 | :--- | :--- |
-| Arguments | a map in format *.ber |
 | External functions | write, ft_printf, signal, sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit |
 
 ## How to use
